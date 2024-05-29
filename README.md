@@ -4,6 +4,18 @@ This WordPress project leverages the powerful WooCommerce plugin to create a rob
 The site features a clean, user-friendly interface, responsive design for optimal viewing on all devices, and comprehensive product listings with detailed descriptions, high-quality images, and customer reviews.
 Integration with secure payment gateways ensures safe transactions, while customizable shipping options enhance user convenience.
 
+# Online Demo
+
+You can visit an online demo in:
+
+- Store: https://asaelwoocommerce.x10.mx/
+- Admin: https://asaelwoocommerce.x10.mx/wp-admin/
+
+Login credentials:
+
+- Username: `asael`
+- Password: `(VvG5TxJuDSwhDWg9F`
+
 # How to install
 
 This project uses docker and docker compose.
@@ -13,6 +25,7 @@ This project uses docker and docker compose.
 - Update credentials for database in .env file (Optional)
 - Run `docker-compose up -d`
 - Access website via `http://localhost:8080/`
+- Install wordpress
 
 # Thank you
 
