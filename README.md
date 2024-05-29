@@ -4,7 +4,7 @@ This WordPress project leverages the powerful WooCommerce plugin to create a rob
 The site features a clean, user-friendly interface, responsive design for optimal viewing on all devices, and comprehensive product listings with detailed descriptions, high-quality images, and customer reviews.
 Integration with secure payment gateways ensures safe transactions, while customizable shipping options enhance user convenience.
 
-# Plugins used
+# Plugins
 
 I use a couple of plugins for optimization like
 
